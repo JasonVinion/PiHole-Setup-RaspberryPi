@@ -7,6 +7,9 @@
 
 A comprehensive guide for setting up Pi-hole on a Raspberry Pi. This repository provides step-by-step instructions, from initial Raspberry Pi setup to Pi-hole configuration, ensuring a smooth installation process for users of all skill levels. It includes detailed explanations of each step, troubleshooting tips, and links to essential resources. Perfect for beginners looking to create an efficient network-wide ad blocker.
 
+Total Views: [![HitCount](https://hits.dwyl.com/JasonVinion/PiHole-Setup-RaspberryPi.svg?style=flat-square)](http://hits.dwyl.com/JasonVinion/PiHole-Setup-RaspberryPi) &nbsp; &nbsp; &nbsp; Unique Views: [![HitCount](https://hits.dwyl.com/JasonVinion/PiHole-Setup-RaspberryPi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JasonVinion/PiHole-Setup-RaspberryPi)
+
+
 ### What You Need
 1. **Raspberry Pi**: With a compatible OS installed (Raspberry Pi OS is recommended).
 2. **Internet Connection**: Wired or wireless.
